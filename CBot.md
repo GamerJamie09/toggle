@@ -8,7 +8,7 @@
 
 ### Download
 
-The CBot download links are avaliable [here](https://github.com/ToggleInc/toggle).
+The CBot download links are avaliable [here](https://github.com/ToggleInc/toggle/blob/master/CBot-Downloads.md).
 
 ### Development
 
